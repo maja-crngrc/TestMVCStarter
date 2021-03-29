@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b4dd787-556a-4704-827d-a7affe3c56de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lp_properties</find>
+      <find>verifyca</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jjVXkakVZRD3UUzDR1hAtZ08NV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553978227915" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandar\IdeaProjects\samPlatform\src\test\resources\prod" />
+      <recent name="C:\Users\Aleksandar\IdeaProjects\samPlatform\src\test\resources\integration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.QA_0000_Initial_Test">
+    <configuration name="BS_0000_LogIn_LogOut_Test.bs_0000_LogIn_LogOut_Test" type="TestNG" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.bs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.bs" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.bs.BS_0000_LogIn_LogOut_Test" />
+      <option name="METHOD_NAME" value="bs_0000_LogIn_LogOut_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0000_LogIn_LogOut_Test" type="TestNG" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0000_LogIn_LogOut_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0004_Add_New_Termin_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0004_Add_New_Termin_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LP_0004_Add_New_Termin_Test.lp_0004_Add_New_Termin_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.lp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.lp" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.lp.LP_0004_Add_New_Termin_Test" />
+      <option name="METHOD_NAME" value="lp_0004_Add_New_Termin_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QA_0000_Initial_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qaalpha.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qaalpha.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qaalpha.tests.QA_0000_Initial_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TM_0000_LogIn_LogOut_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.tm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.tm" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.tm.TM_0000_LogIn_LogOut_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SAMPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wayseven.sam.tests.tm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wayseven.sam.tests.tm" />
+      <option name="MAIN_CLASS_NAME" value="com.wayseven.sam.tests.tm.TM_0002_All_Grids_Alive" />
+      <option name="METHOD_NAME" value="tm_0002_All_Grids_Alive_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.QA_0000_Initial_Test" />
+        <item itemvalue="TestNG.TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" />
+        <item itemvalue="TestNG.LP_0004_Add_New_Termin_Test.lp_0004_Add_New_Termin_Test" />
+        <item itemvalue="TestNG.LP_0004_Add_New_Termin_Test" />
+        <item itemvalue="TestNG.TM_0000_LogIn_LogOut_Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b4dd787-556a-4704-827d-a7affe3c56de" name="Default Changelist" comment="" />
+      <created>1553881451565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553881451565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LP_0003_Create_Lead_Manually_Test - 2019.05.02 at 16h 16m 39s.xml">
+      <configuration name="LP_0003_Create_Lead_Manually_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0000_LogIn_LogOut_Test - 2019.05.02 at 16h 31m 54s.xml">
+      <configuration name="TM_0000_LogIn_LogOut_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0000_LogIn_LogOut_Test - 2019.05.02 at 16h 32m 28s.xml">
+      <configuration name="TM_0000_LogIn_LogOut_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0000_LogIn_LogOut_Test - 2019.05.02 at 16h 33m 22s.xml">
+      <configuration name="TM_0000_LogIn_LogOut_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test - 2019.05.05 at 12h 06m 00s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test - 2019.05.05 at 12h 07m 45s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test - 2019.05.05 at 12h 09m 02s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LP_0004_Add_New_Termin_Test_lp_0004_Add_New_Termin_Test - 2019.05.05 at 12h 11m 00s.xml">
+      <configuration name="LP_0004_Add_New_Termin_Test.lp_0004_Add_New_Termin_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0002_All_Grids_Alive_tm_0002_All_Grids_Alive_Test - 2019.05.05 at 12h 19m 16s.xml">
+      <configuration name="TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TM_0002_All_Grids_Alive_tm_0002_All_Grids_Alive_Test - 2019.05.05 at 12h 22m 39s.xml">
+      <configuration name="TM_0002_All_Grids_Alive.tm_0002_All_Grids_Alive_Test" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1604317682864">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604317682864" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604317595047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604317595047" />
+  </component>
+</project>

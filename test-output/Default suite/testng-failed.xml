@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.qaalpha.tests.QA_0007_CreateClientWithData_Test">
+        <methods>
+          <include name="setUp"/>
+          <include name="cleanUp"/>
+          <include name="qa_0006_CreateMulitipleClients_Test"/>
+        </methods>
+      </class> <!-- com.qaalpha.tests.QA_0007_CreateClientWithData_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
