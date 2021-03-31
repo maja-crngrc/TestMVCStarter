@@ -79,4 +79,17 @@ public class FormPage extends PageBase {
 		assertTrue(freePassesErrorMsg.getText().equals(mvcstarter_properties.getValue("ERROR.MESSAGE")),
 				"FreePasses: Error message is not good!");
 	}
+	
+	public void fillOutForm (String firstName, String lastName, String freePasses,
+							 String postalCode, String courseCode) {
+		WebDriverWait wait = new WebDriverWait(driver, 10);
+		wait.until(ExpectedConditions.elementToBeClickable(firstNameWE));
+		firstNameWE.sendKeys(firstName);
+		lastNameWE.sendKeys(lastName);
+		freePassesWE.sendKeys(freePasses);
+		postalCodeWE.sendKeys(postalCode);
+		courseCodeWE.sendKeys(courseCode);
+		submitBTN.click();
+		
+	}
 }
