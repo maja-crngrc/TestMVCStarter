@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-03-23T14:41:49Z" name="Default suite" finished-at="2021-03-23T14:41:55Z" duration-ms="5828">
+  <suite started-at="2021-03-31T21:00:37Z" name="Default suite" finished-at="2021-03-31T21:00:45Z" duration-ms="7611">
     <groups>
     </groups>
-    <test started-at="2021-03-23T14:41:49Z" name="Default test" finished-at="2021-03-23T14:41:55Z" duration-ms="5828">
+    <test started-at="2021-03-31T21:00:37Z" name="Default test" finished-at="2021-03-31T21:00:45Z" duration-ms="7611">
       <class name="com.mvcstartertest.tests.QA_0001_AddFirstName_Test">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mvcstartertest.tests.QA_0001_AddFirstName_Test@616ac46a]" started-at="2021-03-23T15:41:49Z" name="setUp" finished-at="2021-03-23T15:41:55Z" duration-ms="5368" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.mvcstartertest.tests.QA_0001_AddFirstName_Test@616ac46a]" started-at="2021-03-31T23:00:37Z" name="setUp" finished-at="2021-03-31T23:00:44Z" duration-ms="6221" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="qa_0000_addFirstName_test()[pri:0, instance:com.mvcstartertest.tests.QA_0001_AddFirstName_Test@616ac46a]" started-at="2021-03-23T15:41:55Z" name="qa_0000_addFirstName_test" finished-at="2021-03-23T15:41:55Z" duration-ms="446" status="PASS">
+        <test-method signature="qa_0000_addFirstName_test()[pri:0, instance:com.mvcstartertest.tests.QA_0001_AddFirstName_Test@616ac46a]" started-at="2021-03-31T23:00:44Z" name="qa_0000_addFirstName_test" finished-at="2021-03-31T23:00:45Z" duration-ms="1349" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- qa_0000_addFirstName_test -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.mvcstartertest.tests.QA_0001_AddFirstName_Test@616ac46a]" started-at="2021-03-23T15:41:55Z" name="cleanUp" finished-at="2021-03-23T15:41:55Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com.mvcstartertest.tests.QA_0001_AddFirstName_Test@616ac46a]" started-at="2021-03-31T23:00:45Z" name="cleanUp" finished-at="2021-03-31T23:00:45Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->

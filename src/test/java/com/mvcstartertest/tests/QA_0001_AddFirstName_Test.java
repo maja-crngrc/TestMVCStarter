@@ -17,7 +17,7 @@ public class QA_0001_AddFirstName_Test extends BaseTest {
 	public void qa_0000_addFirstName_test() throws Exception {
 		FormPage formPage = new FormPage(driver, MVCSTARTER_PROPERTIES);
 		formPage.addFirstName();
-		formPage.validationFirstName();
+		formPage.validationMessagesFirstName();
 	}
 	
 

@@ -24,7 +24,7 @@ public class FormPage extends PageBase {
 	private WebElement fillFormMessageWE;
 	
 	@FindBy(xpath = "//*[@id='firstName']")
-	private WebElement firstName;
+	private WebElement firstNameWE;
 	
 	@FindBy(xpath = "//*[@id='lastName']")
 	private WebElement lastNameWE;
@@ -53,16 +53,25 @@ public class FormPage extends PageBase {
 				"InfoMessage: Message is not good!");
 	}
 	
-	public void addFirstName() {
+	public String addFirstName() {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
-		wait.until(ExpectedConditions.elementToBeClickable(firstName));
-		firstName.click();
+		wait.until(ExpectedConditions.elementToBeClickable(firstNameWE));
+		firstNameWE.click();
 		String name = getRandomName();
-		firstName.sendKeys(name);
+		firstNameWE.sendKeys(name);
 		submitBTN.click();
+		return name;
 	}
 	
-	public void validationFirstName() {
+	public void verifyFirstName(String name) throws InterruptedException {
+	WebDriverWait wait = new WebDriverWait(driver, 10);
+	wait.until(ExpectedConditions.visibilityOf(firstNameWE));
+	Thread.sleep(2000);
+	assertTrue(firstNameWE.getText().equals(name), "First name doesn't match.");
+}
+	
+	
+	public void validationMessagesFirstName() {
 		WebDriverWait wait = new WebDriverWait(driver, 10);
 		wait.until(ExpectedConditions.visibilityOf(lastNameErrorMsg));
 		assertTrue(lastNameErrorMsg.getText().equals(mvcstarter_properties.getValue("ERROR.MESSAGE")),
